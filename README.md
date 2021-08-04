@@ -1,6 +1,7 @@
 # Projetos-concluidos
 
-Apenas use NPM INSTALL para instalar as dependencias.
-Utilize a extensão LiVE SERVER do vs code para ver o resultado! 
+* Apenas use NPM INSTALL para instalar as dependencias.
+* Utilize a extensão LIVE SERVER do vscode para ver o resultado visual!
+* Utilize a extensão CODE RUNNER do vscode para ver o resultado de lógica!
 
 NOTA: alguns são apenas lógica podendo ter ou não ter visual apurado e ou ser algo visual!
