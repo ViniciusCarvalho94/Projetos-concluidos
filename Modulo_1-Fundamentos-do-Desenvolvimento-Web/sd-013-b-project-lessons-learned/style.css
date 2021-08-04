@@ -1,0 +1,44 @@
+* {
+  font-family: sans-serif;
+  line-height: 1.3em;
+}
+
+body {
+  background: rgb(253, 251, 251);
+  width: 750px;
+  margin: auto;
+}
+
+#cabecalho {
+  margin-top: 0;
+  position: fixed;
+  background: rgb(42, 107, 81);
+  height: 50px;
+  width: 750px;
+  color: white;
+  border-bottom: 1px solid black;
+  border-radius: 0 0 5px 5px;
+}
+
+#titulo {
+  padding: 5px;
+  margin: 0 0 0 10px;
+  font-size: 30px;
+  text-align: center;
+}
+
+#minha_foto {
+  display: block;
+  margin-top: 50px;
+  width: 350px;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+  width: 300px;
+}
+
+.lado-direito {
+  display: inline-block;
+  width: 300px;
+}

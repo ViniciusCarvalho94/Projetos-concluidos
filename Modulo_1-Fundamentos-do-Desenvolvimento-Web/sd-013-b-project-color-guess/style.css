@@ -1,0 +1,18 @@
+* {
+  font-family: sans-serif;
+}
+
+.ball {
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+#answer {
+  margin-top: 20px;
+}
+

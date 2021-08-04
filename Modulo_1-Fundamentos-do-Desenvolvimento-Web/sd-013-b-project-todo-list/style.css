@@ -1,0 +1,11 @@
+* {
+  font-family: sans-serif;
+}
+
+.liSelectedColor {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
